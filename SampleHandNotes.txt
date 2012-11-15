@@ -1,0 +1,2 @@
+This is just one set of possible hands. In this case, the convention dictates which order the suits go (spades, hearts, diamonds, clubs), and line breaks tell when a new suit starts.
+You could have, however a one line convention H:??? , D:???, etc. You can also see I have represented lower cards with a question mark, as their value is not important. (But might be in the challenges!)

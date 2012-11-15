@@ -25,6 +25,7 @@ Mocking the file system for unit tests, but check your assumptions with integrat
 Using linq for parsing the data from the file.
 
 ###Further Challenges
+0. Correct formating errors in the file.
 1. Calculate four hands from one file, it should be possible to tell which hand is which.
 2. Suggest an opening bid for players with more than twelve points (you might have to research this).
 3. Try object calisthenics with 2.
