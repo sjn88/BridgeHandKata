@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeKata", "BridgeKata\BridgeKata.csproj", "{E696E8E9-774E-47C3-9C65-74E0EA8126AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeKataTests", "BridgeKataTests\BridgeKataTests.csproj", "{50C09DF3-BFE3-4EF5-9D31-CAC45A4261C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E696E8E9-774E-47C3-9C65-74E0EA8126AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E696E8E9-774E-47C3-9C65-74E0EA8126AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E696E8E9-774E-47C3-9C65-74E0EA8126AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E696E8E9-774E-47C3-9C65-74E0EA8126AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C09DF3-BFE3-4EF5-9D31-CAC45A4261C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C09DF3-BFE3-4EF5-9D31-CAC45A4261C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C09DF3-BFE3-4EF5-9D31-CAC45A4261C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C09DF3-BFE3-4EF5-9D31-CAC45A4261C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
