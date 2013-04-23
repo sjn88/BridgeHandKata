@@ -25,11 +25,11 @@ from http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 2. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
 3. You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
 
-###Extra points for...
-Using object calisthenics (see text file)
-Using domain modelling (see text file)
+##Extra points for...
+Using [object calisthenics](ObjCali.txt)
+Using [domain modelling](Domain Objects.txt)
 
-###Further Challenges
+##Further Challenges - we probably won't get on to these:
 1. Calculate four hands from one string / file- it should be possible to tell which hand is which.
 The four players are named after the directions: north, south, east and west.
 
