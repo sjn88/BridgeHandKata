@@ -1,0 +1,16 @@
+Object Calisthenics!
+====================
+
+The Rules
+1.	Don’t abbrev. (iate)
+2.	Don’t use the ELSE keyword (or else!)
+3.	No static methods other than factory methods (and even then consider using an IOC container)
+4.		Keep all entities small (50 lines per class, no package over 10 files).
+5.			One level of indentation per method 
+6.		One.dot.per.line 
+		(unless using functional chaining such as the builder pattern or functional chaining of an
+ 		immutable type e.g. linq in .net languages)
+7.	Wrap all primitives (strings count)
+8.	First class collections 
+9.	No classes with more than 2 instance variables.
+10.	No get/set methods

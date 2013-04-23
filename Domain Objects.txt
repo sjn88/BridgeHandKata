@@ -1,0 +1,7 @@
+Domain Objects
+==============
+
+The rules
+1. Acceptance tests should be almost (or better yet, actually) readable by a person who plays bridge.
+2. Objects which represent the language of bridge should be preferred over those that don't.
+3. It should be possible to describe their interaction using code-like terms and diagrams that resssemble class interactions.
