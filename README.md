@@ -55,4 +55,4 @@ If you can, prefer no trumps (NT) over a suit, to play a no trump. You should do
 
 You should open 1 if you have 12-18 points, 2 if you have >18 unless you have 25-26 and are playing no trumps, in which case open with 3NT.
 
-For example, in these rules, the following hand is two diamonds: ♠AK??♥J??♦AKJ??♣K
+For example, in these rules, the following hand is two diamonds: `♠AK??♥J??♦AKJ??♣K`
