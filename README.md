@@ -29,7 +29,7 @@ from http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 ## Extra points for...
 
   * Using [object calisthenics](ObjCali.txt)
-  * Using [domain modelling](Domain Objects.txt)
+  * Using [domain modelling](DomainObjects.txt)
 
 ## Extra things- we probably won't get on to these:
 
