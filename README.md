@@ -1,7 +1,7 @@
 ﻿BridgeHandKata
 ==============
 
-A Kata to introduce mocking. The idea is that a program determines the number of points a hand in bridge is worth.
+The goal of this kata is to produce a library or program that determines the number of points a hand in bridge is worth.
 
 ##Brief
 ###Intro
@@ -14,7 +14,6 @@ The task is, using the three rules of TDD, to read a bridge hand and to calculat
 The program should only accept one format of your choice (although one is provided), and it should be possible to tell points by suit. The extension exercises are mainly for working out what an opening bid would be, using a simplified set of rules.
 
 ###Rules of TDD
-from http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 
 1. You are not allowed to write any production code unless it is to make a failing unit test pass.
 2. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
